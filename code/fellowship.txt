@@ -1,0 +1,20 @@
+Final Summary...
+
+The quest succeeded.
+Luca the Hobbit gave the floppy disk to the Java Wizard.
+The Fellowship visited 11 unique caves.
+They did this in 172 moves (counting entering the first cave)
+The floppy disk changed hands 10 times, including the Hobbit taking it for the first time.
+These creatures died:
+	William the Goblin
+	James the Goblin
+	Boldog the Orc
+	Jacob the Goblin
+	Bolg the Orc
+	Elijah the Troll
+	Lachlan the Troll
+	Levi the Troll
+	Lucas the Goblin
+	Xavier the Troll
+
+Fellowship Success Rate: 37
